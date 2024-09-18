@@ -10,13 +10,6 @@ Transformer Model created here is built from scratch.
 The Model has been trained on the English-Hindi parallel corpus provided by IIT Bombay.
 http://www.cfilt.iitb.ac.in/iitb_parallel/
 
-## Requirements
-* Python==3.7
-* torch==1.6.0
-* torchtext==0.6.0
-* indic-nlp-library==0.6
-* spacy==2.3.2
-
 ## Translation Output Preview
 ![tr1](https://user-images.githubusercontent.com/19773008/92324021-329c0f80-f05b-11ea-958f-86d33eb84679.JPG)
 ![tr2](https://user-images.githubusercontent.com/19773008/92324028-421b5880-f05b-11ea-9f8e-dbc1d5d88c28.JPG)
