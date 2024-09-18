@@ -2,7 +2,7 @@
 Machine Translation using Transformer from Scratch
 
 
-# Translation Model (Englist-to-Hindi)
+# Translation Model (English-to-Hindi)
 ## Description
 This repository contains the implementation of English to Hindi Language Translation using the Transformer model in PyTorch.
 Transformer Model created here is built from scratch.
